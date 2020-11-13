@@ -20,7 +20,7 @@
 <h1 align="Left">Some things I know. Things Im working on.</h1>
 <br>
 	<p align="left">
-		<a href="https://www.python.org" target="_blank">
+		<a href="https://ubuntu.com/" target="_blank">
 			<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="python" width="40" height="40"/>
 		</a>
 		<a href="https://www.docker.com/" target="_blank">
