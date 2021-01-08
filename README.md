@@ -40,6 +40,9 @@
 		<a href="https://www.python.org" target="_blank">
 			<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 		</a>
+		<a href="https://developer.android.com/" target="_blank">
+			<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+		</a>
     </p>
 <br>
 <p>
