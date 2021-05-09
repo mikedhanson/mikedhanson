@@ -8,7 +8,7 @@
 
 📝 Personal Webiste [https://michaelhanson.dev](https://michaelhanson.dev)
 
-📫 You can reach me [Here](https://michaelhanson.dev/contact)
+📫 You can reach me [Here](https://michaelhanson.dev/#contact)
 
 <p align="left">
 	<a href="https://twitter.com/mikehanson1458" rel="noopener">
