@@ -21,7 +21,7 @@
 <h1 align="Left">Technology I'm working with:</h1>
 <br>
 	<p align="left">
-		<a href="[https://Power.org/](https://github.com/PowerShell/PowerShell)" target="_blank">
+		<a href="https://github.com/PowerShell/PowerShell" target="_blank">
 			<img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true" alt="Powershell" width="40" height="40"/>
 		</a>
 		<a href="https://www.docker.com/" target="_blank">
